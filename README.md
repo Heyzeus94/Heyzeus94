@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Zeus! 👋
 
-<!--
-**Heyzeus94/Heyzeus94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a strong interest in web development, open-source projects, and learning new technologies. Here's a little more about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on various web development projects.
+- 🌱 I’m currently learning more about cloud computing and DevOps.
+- 👯 I’m looking to collaborate on exciting open-source projects.
+- 💬 Ask me about web development, JavaScript, or any tech-related topics!
+- 📫 How to reach me: [Email](mailto:heyzeus94@example.com)
+- ⚡ Fun fact: I love ancient mythology and often draw inspiration from it in my projects.
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** JavaScript, Python, Java, SQL
+- **Frameworks:** React, Node.js, Django
+- **Tools & Platforms:** Git, Docker, AWS, GitHub Actions
+
+## 📈 GitHub Stats
+
+![Heyzeus94's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heyzeus94&show_icons=true&theme=radical)
+
+## 📝 Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Title of Blog Post 1](https://yourbloglink.com/post1)
+- [Title of Blog Post 2](https://yourbloglink.com/post2)
+<!-- BLOG-POST-LIST:END -->
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/heyzeus94)
+- [Twitter](https://twitter.com/heyzeus94)
+- [Personal Website](https://heyzeus94.dev)
+
+Thanks for stopping by! Have a great day! 😄
