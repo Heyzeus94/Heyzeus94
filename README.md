@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 - 🔭 I’m currently attending UT Arlington, pursuing a BBA in Information Systems.
 - 🌱 I’m currently learning more about cloud computing and InfoSec.
 - 👯 I’m looking to collaborate on exciting open-source projects.
-- 💬 Ask me about web development, JavaScript, SQL,Python, or any tech-related topics!
+- 💬 Ask me about web development, Java, SQL,Python, InfoSec, or any tech-related topics!
 - 📫 How to reach me: [Email](jesusgtz212@gmail.com)
 - ⚡ Fun fact: I love cars, airplanes, and anything intricate that moves!
 
