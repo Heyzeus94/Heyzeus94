@@ -1,6 +1,6 @@
 # Hi there, I'm Jesus! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong interest in web development, open-source projects, and learning new technologies. Here's a little more about me:
+Welcome to my GitHub profile! I'm a passionate developer with a strong interest in web development, open-source projects, InfoSec, Networking, and learning new technologies. Here's a little more about me:
 
 ## 🚀 About Me
 
