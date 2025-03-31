@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various web development projects.
-- 🌱 I’m currently learning more about cloud computing and DevOps.
+- 🔭 I’m currently attending UT Arlington, pursuing a BBA in Information Systems.
+- 🌱 I’m currently learning more about cloud computing and InfoSec.
 - 👯 I’m looking to collaborate on exciting open-source projects.
-- 💬 Ask me about web development, JavaScript, or any tech-related topics!
-- 📫 How to reach me: [Email](mailto:heyzeus94@example.com)
-- ⚡ Fun fact: I love ancient mythology and often draw inspiration from it in my projects.
+- 💬 Ask me about web development, JavaScript, SQL,Python, or any tech-related topics!
+- 📫 How to reach me: [Email](jesusgtz212@gmail.com)
+- ⚡ Fun fact: I love cars, airplanes, and anything intricate that moves!
 
 ## 🛠️ Technologies & Tools
 
@@ -21,17 +21,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 
 ![Heyzeus94's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heyzeus94&show_icons=true&theme=radical)
 
-## 📝 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Title of Blog Post 1](https://yourbloglink.com/post1)
-- [Title of Blog Post 2](https://yourbloglink.com/post2)
-<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/heyzeus94)
-- [Twitter](https://twitter.com/heyzeus94)
-- [Personal Website](https://heyzeus94.dev)
+- [LinkedIn](www.linkedin.com/in/jesus-gutierrez-trevino-476568303)
 
 Thanks for stopping by! Have a great day! 😄
